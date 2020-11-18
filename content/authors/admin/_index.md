@@ -1,8 +1,7 @@
 ---
 title: Pengyu YIN (尹鹏宇)
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: ""
+bio: My research interests include 3D perception and ego-pose estimation for robots.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -41,4 +40,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-I am a master student from the Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University.
+Pengyu YIN a postgraduate student from the Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University. Prior to Xi'an, he obtained the Engineering diploma (Diplome d'ingénieur)

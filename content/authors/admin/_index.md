@@ -3,8 +3,8 @@ title: Pengyu YIN (尹鹏宇)
 role: ""
 bio: My research interests include 3D perception and ego-pose estimation for robots.
 interests:
-  - PointCloudRegistration
-  - LiDARbasedLocalization
+  - Point Cloud Registration
+  - Ego-pose Estimation for Mobile Robots
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,4 +39,4 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
-Pengyu YIN a postgraduate student from the Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University, China. Prior to that, he obtained the Engineering diploma (Diplome d'ingénieur) from CentraleSupélec and the bachelor degree from the department of automation in Xi'an Jiaotong University (XJTU).
+Pengyu YIN a postgraduate student from the Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University, China. Prior to that, he obtained the Engineering diploma (Diplome d'ingénieur) from CentraleSupélec and BSc from the department of automation in Xi'an Jiaotong University (XJTU).
